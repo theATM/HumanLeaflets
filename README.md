@@ -14,7 +14,7 @@ The LLM models are used to create a medicine leaflet analysis tool, that can ans
 
 ## Results
 
-Audio Results on givem (Polish) queries:
+Audio Results on given (Polish) queries:
 * "Jakie jest zalecane dawkowanie?" 
 * "Z jakimi lekami nie powinienem brać apapu?"
 
